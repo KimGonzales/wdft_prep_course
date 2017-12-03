@@ -1,1 +1,76 @@
+h1 {
+    color: #0b6f85;
+    font-family: sans-serif;
+    font-size: 36pt;
+    font-weight: lighter;
+    position:relative;
+    margin-top: 50px;
+    margin-left:175px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+
+}
+
+.box {
+    color: white;
+    font-size: 36pt;
+    font-family:sans-serif;
+    background-color:#0b6f85;
+    float: right;
+    padding: 20px;
+    margin-top: -60px;
+    margin-right:35px;
+    padding-top:30px;
+    padding-right:15px;
+    padding-bottom:10px;
+    padding-left:3px;
+}
+
+#contactInfo {
+    font-family: sans-serif;
+    color: grey;
+    font-size: 8pt;
+    position:relative;
+        margin-left:175px;
+        margin-right:200px;
+}
+
+h3 {
+    color: #0b6f85;
+    font-size: 9pt;
+    font-family:sans-serif;
+    font-weight: bold;
+    position:relative;
+    display: inline;
+    margin-left: 50px;
+    top:15px;/*delete later maybe*/
+}
+
+p {
+    font-family: sans-serif;
+    color: grey;
+    font-weight: lighter;
+    font-size: 9pt;
+    margin-left: 175px;
+    margin-right:50px;
+    margin-top: 4px;
+    line-height: 1.4em;
+    width: 650px;
+}
+
+.date {
+    float: right;
+    font-family: sans-serif;
+    color: 	#2F4F4F;
+    font-size: 9pt;
+    margin-right: 10px;
+}
+
+.position {
+    font-family: sans-serif;
+    color: 	#2F4F4F;
+    font-size: 9pt;
+    margin-left: 175px;
+    margin-right:50px;
+}
 
