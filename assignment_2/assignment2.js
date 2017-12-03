@@ -2,7 +2,7 @@
 // Write your solution below
 var hashtag = '';
 
-for (var counter = 0; counter <7; counter = counter + 1) {
+for (var counter = 0; counter <7; counter++) {
     hashtag = hashtag + '#';
     console.log(hashtag);
 }
@@ -20,7 +20,7 @@ the counter will be supplemented with a value of 1. The loop will terminate once
     whether a number is odd or even)
 */
 // Write your solution below
-x = "your number";
+x = 2;
     if (x%2===0) {
      console.log("The number is even!")
  } else {
