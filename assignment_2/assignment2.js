@@ -9,11 +9,11 @@ for (var counter = 0; counter <7; counter = counter + 1) {
 
 /* 
 Write your explanation for Exercise #1 here
-The hashtag variable is initially given an empty string value ('') so 
-that once the loop begins, the printed result will start at ('' + #) = #. Afterwards, 
+The hashtag variable is initially given an empty string value (''). 
+Once the loop begins, the printed result will start at ('' + #) = #. Afterwards, 
 the 'hashtag's to print will have one additonal "#" and so forth. 
 The counter variable is give an inital value of 0. Every time the program loops,
-the counter will be supplemented with a value of 1, up until it reaches 7. 
+the counter will be supplemented with a value of 1. The loop will terminate once the counter is equal to 7. 
 */
 
 /* Exercise #2 (write a function that checks 
